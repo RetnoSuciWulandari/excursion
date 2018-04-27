@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.heading {
+  font-weight: 500;
+  font-size: 50px;
+  color: white;
+}
+
+.headline {
+  font-weight: 500;
+  font-size: 42px;
+  color: white;
+}
+
+.description {
+  font-size: 21px;
+  color: gray;
+}
+
+.download {
+  color: Aquamarine;
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+footer .copyright {
+  color: gray;
+  text-align: right;
+  font-weight: bold;
+}
+
+.main {
+  display: block;
+  justify-content: center;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.ads {
+  margin-top: 30px;
+}
